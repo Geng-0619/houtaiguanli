@@ -1,0 +1,31 @@
+.user_login{
+    width: 130px;
+    height: 130px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    margin:0 auto;
+    margin-bottom: 40px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 7px;
+    box-shadow: 0px 0px 5px 3px  #ccc;
+}
+.user_login>div{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    /* border: 1px solid #ccc; */
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.user_login img{
+    width: 120%;
+    margin: -7px;
+}
+.el-form-item{
+    width: 35%;
+    margin-left: 30%;
+}
+.el-form-item__content{
+    text-align: center;
+}
